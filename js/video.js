@@ -14,7 +14,7 @@ window.addEventListener("load", function () {
   video.loop = false;
 
   video.load(); 
-  document.getElementById("volume").innerText = video.volume * 100 + "%";
+//   document.getElementById("volume").innerText = video.volume * 100 + "%";
 });
 
 //play video
